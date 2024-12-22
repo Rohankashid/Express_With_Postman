@@ -1,0 +1,22 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "a simple express demo for backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "rohan kashid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

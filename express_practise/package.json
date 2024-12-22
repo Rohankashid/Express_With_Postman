@@ -1,0 +1,16 @@
+{
+  "name": "express_practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":""
+  },
+  "keywords": [
+    "express",
+    "practise",
+    "backend"
+  ],
+  "author": "rohan",
+  "license": "ISC"
+}
